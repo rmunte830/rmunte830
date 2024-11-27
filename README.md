@@ -51,7 +51,7 @@ _Israel Defense Forces (March 2021 - February 2022)_
 
 ## 📈 GitHub Stats
 
-![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-munte&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=tokyonight)
+![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmunte830&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
